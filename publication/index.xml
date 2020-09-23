@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Simon Fontaine</title>
+    <link>https://www.fontaine618.github.io/publication/</link>
+      <atom:link href="https://www.fontaine618.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 20:16:27 -0500</lastBuildDate>
+    <image>
+      <url>https://www.fontaine618.github.io/media/icon_512.png</url>
+      <title>Publications</title>
+      <link>https://www.fontaine618.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A proximal alternating direction method for regularized multi-task regression</title>
+      <link>https://www.fontaine618.github.io/publication/mtsgl/</link>
+      <pubDate>Wed, 01 Apr 2020 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/mtsgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caught Looking: Analyzing Variation in Umpire Strike Zones</title>
+      <link>https://www.fontaine618.github.io/publication/caughtlooking/</link>
+      <pubDate>Wed, 01 Apr 2020 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/caughtlooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MovieLens Datasets—Predicting and Analyzing User Ratings of Movies</title>
+      <link>https://www.fontaine618.github.io/publication/movielens/</link>
+      <pubDate>Wed, 01 Apr 2020 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/movielens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Approach to Sparse Tweedie Modeling of Multi-Source Insurance Claim Data</title>
+      <link>https://www.fontaine618.github.io/publication/mstweedie/</link>
+      <pubDate>Sat, 01 Feb 2020 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/mstweedie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Multiple-Try MCMC Algorithms</title>
+      <link>https://www.fontaine618.github.io/publication/amtm-thesis/</link>
+      <pubDate>Sat, 01 Feb 2020 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/amtm-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
