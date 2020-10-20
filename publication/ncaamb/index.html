@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="The MovieLens datasets contain user ratings of movies as well as movie and user information. In this report, we consider four predictive models of the ratings based on the available information: K-nearest-neighbors, neural networks, matrix completion using singular value decomposition and restricted Bolztmann machine. We tune all models to finally compare them on their out-of-sample performance: matrix completion produces the best testing metrics. Then, we propose two exploratory analysis methods in order to extract insight from the selected predictive model.">
+  <meta name="description" content="We propose a latent variable model for paired comparisons in the context of Basketball scores. Based on the model proposed by [1], our model assumes multi-dimensional latent skills decomposed into offensive and defensive components as well as team- and conference-specific skills interacting with each other through an inner product model. We propose two inference approaches: maximum likelihood estimation (MLE) and mean-field variational inference (VI). Applied to the 2004- 2017 NCAA Men’s Basketball season’s, the MLE approach yields adequate and interpretable results, but the VI approach was not as successful. Based on the MLE inference, we study the relationship between teams and conferences, we investigate league-wide trends over time and we produce rankings of teams and conferences.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.fontaine618.github.io/publication/movielens/">
+  <link rel="alternate" hreflang="en-us" href="https://www.fontaine618.github.io/publication/ncaamb/">
 
   
 
@@ -254,7 +254,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://www.fontaine618.github.io/publication/movielens/">
+  <link rel="canonical" href="https://www.fontaine618.github.io/publication/ncaamb/">
 
   
   
@@ -269,15 +269,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Simon Fontaine">
-  <meta property="og:url" content="https://www.fontaine618.github.io/publication/movielens/">
-  <meta property="og:title" content="MovieLens Datasets—Predicting and Analyzing User Ratings of Movies | Simon Fontaine">
-  <meta property="og:description" content="The MovieLens datasets contain user ratings of movies as well as movie and user information. In this report, we consider four predictive models of the ratings based on the available information: K-nearest-neighbors, neural networks, matrix completion using singular value decomposition and restricted Bolztmann machine. We tune all models to finally compare them on their out-of-sample performance: matrix completion produces the best testing metrics. Then, we propose two exploratory analysis methods in order to extract insight from the selected predictive model."><meta property="og:image" content="https://www.fontaine618.github.io/media/icon_512.png">
+  <meta property="og:url" content="https://www.fontaine618.github.io/publication/ncaamb/">
+  <meta property="og:title" content="Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Scores | Simon Fontaine">
+  <meta property="og:description" content="We propose a latent variable model for paired comparisons in the context of Basketball scores. Based on the model proposed by [1], our model assumes multi-dimensional latent skills decomposed into offensive and defensive components as well as team- and conference-specific skills interacting with each other through an inner product model. We propose two inference approaches: maximum likelihood estimation (MLE) and mean-field variational inference (VI). Applied to the 2004- 2017 NCAA Men’s Basketball season’s, the MLE approach yields adequate and interpretable results, but the VI approach was not as successful. Based on the MLE inference, we study the relationship between teams and conferences, we investigate league-wide trends over time and we produce rankings of teams and conferences."><meta property="og:image" content="https://www.fontaine618.github.io/media/icon_512.png">
   <meta property="twitter:image" content="https://www.fontaine618.github.io/media/icon_512.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-04-01T20:16:27-05:00">
+      <meta property="article:published_time" content="2020-10-19T20:16:27-05:00">
     
-    <meta property="article:modified_time" content="2020-04-01T20:16:27-05:00">
+    <meta property="article:modified_time" content="2020-10-19T20:16:27-05:00">
   
 
   
@@ -299,12 +299,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.fontaine618.github.io/publication/movielens/"
+    "@id": "https://www.fontaine618.github.io/publication/ncaamb/"
   },
-  "headline": "MovieLens Datasets—Predicting and Analyzing User Ratings of Movies",
+  "headline": "Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Scores",
   
-  "datePublished": "2020-04-01T20:16:27-05:00",
-  "dateModified": "2020-04-01T20:16:27-05:00",
+  "datePublished": "2020-10-19T20:16:27-05:00",
+  "dateModified": "2020-10-19T20:16:27-05:00",
   
   "author": {
     "@type": "Person",
@@ -319,7 +319,7 @@
       "url": "https://www.fontaine618.github.io/images/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "The MovieLens datasets contain user ratings of movies as well as movie and user information. In this report, we consider four predictive models of the ratings based on the available information: K-nearest-neighbors, neural networks, matrix completion using singular value decomposition and restricted Bolztmann machine. We tune all models to finally compare them on their out-of-sample performance: matrix completion produces the best testing metrics. Then, we propose two exploratory analysis methods in order to extract insight from the selected predictive model."
+  "description": "We propose a latent variable model for paired comparisons in the context of Basketball scores. Based on the model proposed by [1], our model assumes multi-dimensional latent skills decomposed into offensive and defensive components as well as team- and conference-specific skills interacting with each other through an inner product model. We propose two inference approaches: maximum likelihood estimation (MLE) and mean-field variational inference (VI). Applied to the 2004- 2017 NCAA Men’s Basketball season’s, the MLE approach yields adequate and interpretable results, but the VI approach was not as successful. Based on the MLE inference, we study the relationship between teams and conferences, we investigate league-wide trends over time and we produce rankings of teams and conferences."
 }
 </script>
 
@@ -337,7 +337,7 @@
 
 
 
-  <title>MovieLens Datasets—Predicting and Analyzing User Ratings of Movies | Simon Fontaine</title>
+  <title>Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Scores | Simon Fontaine</title>
 
 </head>
 
@@ -596,7 +596,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>MovieLens Datasets—Predicting and Analyzing User Ratings of Movies</h1>
+  <h1>Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Scores</h1>
 
   
 
@@ -614,7 +614,7 @@
     
 
   
-  <span class="font-weight-bold"><a href="/author/simon-fontaine/">Simon Fontaine</a></span>, <span ><a href="/author/trong-dat-do/">Trong Dat Do</a></span>
+  <span class="font-weight-bold"><a href="/author/simon-fontaine/">Simon Fontaine</a></span>
   </div>
   
   
@@ -625,7 +625,7 @@
     
       
     
-    April 2020
+    October 2020
   </span>
   
 
@@ -673,7 +673,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/movielens/movielens_report.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/ncaamb/report.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -684,7 +684,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/fontaine618/507-Project" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/fontaine618/700-Project" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -699,7 +699,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/movielens/movielens_slides.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/caughtlooking/slides.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -721,7 +721,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The MovieLens datasets contain user ratings of movies as well as movie and user information. In this report, we consider four predictive models of the ratings based on the available information: K-nearest-neighbors, neural networks, matrix completion using singular value decomposition and restricted Bolztmann machine. We tune all models to finally compare them on their out-of-sample performance: matrix completion produces the best testing metrics. Then, we propose two exploratory analysis methods in order to extract insight from the selected predictive model.</p>
+    <p class="pub-abstract">We propose a latent variable model for paired comparisons in the context of Basketball scores. Based on the model proposed by [1], our model assumes multi-dimensional latent skills decomposed into offensive and defensive components as well as team- and conference-specific skills interacting with each other through an inner product model. We propose two inference approaches: maximum likelihood estimation (MLE) and mean-field variational inference (VI). Applied to the 2004- 2017 NCAA Men’s Basketball season’s, the MLE approach yields adequate and interpretable results, but the VI approach was not as successful. Based on the MLE inference, we study the relationship between teams and conferences, we investigate league-wide trends over time and we produce rankings of teams and conferences.</p>
     
 
     
@@ -771,7 +771,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://www.fontaine618.github.io/publication/movielens/&amp;text=MovieLens%20Datasets%e2%80%94Predicting%20and%20Analyzing%20User%20Ratings%20of%20Movies" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://www.fontaine618.github.io/publication/ncaamb/&amp;text=Latent%20Variable%20Modeling%20of%20Paired%20Comparisons%20with%20Application%20to%20NCAA%20Men%e2%80%99s%20Basketball%20Scores" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -784,7 +784,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://www.fontaine618.github.io/publication/movielens/&amp;t=MovieLens%20Datasets%e2%80%94Predicting%20and%20Analyzing%20User%20Ratings%20of%20Movies" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://www.fontaine618.github.io/publication/ncaamb/&amp;t=Latent%20Variable%20Modeling%20of%20Paired%20Comparisons%20with%20Application%20to%20NCAA%20Men%e2%80%99s%20Basketball%20Scores" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -797,7 +797,7 @@
       
       
       <li>
-        <a href="mailto:?subject=MovieLens%20Datasets%e2%80%94Predicting%20and%20Analyzing%20User%20Ratings%20of%20Movies&amp;body=https://www.fontaine618.github.io/publication/movielens/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Latent%20Variable%20Modeling%20of%20Paired%20Comparisons%20with%20Application%20to%20NCAA%20Men%e2%80%99s%20Basketball%20Scores&amp;body=https://www.fontaine618.github.io/publication/ncaamb/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -810,7 +810,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://www.fontaine618.github.io/publication/movielens/&amp;title=MovieLens%20Datasets%e2%80%94Predicting%20and%20Analyzing%20User%20Ratings%20of%20Movies" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://www.fontaine618.github.io/publication/ncaamb/&amp;title=Latent%20Variable%20Modeling%20of%20Paired%20Comparisons%20with%20Application%20to%20NCAA%20Men%e2%80%99s%20Basketball%20Scores" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -823,7 +823,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=MovieLens%20Datasets%e2%80%94Predicting%20and%20Analyzing%20User%20Ratings%20of%20Movies%20https://www.fontaine618.github.io/publication/movielens/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Latent%20Variable%20Modeling%20of%20Paired%20Comparisons%20with%20Application%20to%20NCAA%20Men%e2%80%99s%20Basketball%20Scores%20https://www.fontaine618.github.io/publication/ncaamb/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -836,7 +836,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://www.fontaine618.github.io/publication/movielens/&amp;title=MovieLens%20Datasets%e2%80%94Predicting%20and%20Analyzing%20User%20Ratings%20of%20Movies" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://www.fontaine618.github.io/publication/ncaamb/&amp;title=Latent%20Variable%20Modeling%20of%20Paired%20Comparisons%20with%20Application%20to%20NCAA%20Men%e2%80%99s%20Basketball%20Scores" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -925,36 +925,6 @@
 
 
   
-    
-    
-
-
-
-
-
-  
-    
-    
-    
-    
-    
-    <div class="media author-card content-widget-hr">
-      
-
-      <div class="media-body">
-        <h5 class="card-title"><a href="/author/trong-dat-do/">Trong Dat Do</a></h5>
-        <h6 class="card-subtitle">Ph.D. Student in Statistics</h6>
-        
-        <ul class="network-icon" aria-hidden="true">
-  
-</ul>
-
-      </div>
-    </div>
-  
-
-
-  
 
 
 
@@ -973,11 +943,11 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/ncaamb/">Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Scores</a></li>
-      
-      <li><a href="/publication/caughtlooking/">Caught Looking: Analyzing Variation in Umpire Strike Zones</a></li>
+      <li><a href="/publication/movielens/">MovieLens Datasets—Predicting and Analyzing User Ratings of Movies</a></li>
       
       <li><a href="/publication/mtsgl/">A proximal alternating direction method for regularized multi-task regression</a></li>
+      
+      <li><a href="/publication/caughtlooking/">Caught Looking: Analyzing Variation in Umpire Strike Zones</a></li>
       
       <li><a href="/publication/mstweedie/">A Unified Approach to Sparse Tweedie Modeling of Multi-Source Insurance Claim Data</a></li>
       
