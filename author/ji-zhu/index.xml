@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Simon Fontaine</title>
-    <link>https://www.fontaine618.github.io/talk/</link>
-      <atom:link href="https://www.fontaine618.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <title>Ji Zhu | Simon Fontaine</title>
+    <link>https://www.fontaine618.github.io/author/ji-zhu/</link>
+      <atom:link href="https://www.fontaine618.github.io/author/ji-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ji Zhu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2021</copyright><lastBuildDate>Tue, 10 Aug 2021 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.fontaine618.github.io/media/icon_512.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.fontaine618.github.io/talk/</link>
+      <title>Ji Zhu</title>
+      <link>https://www.fontaine618.github.io/author/ji-zhu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.fontaine618.github.io/talk/naivi/</link>
       <pubDate>Tue, 10 Aug 2021 10:00:00 +0000</pubDate>
       <guid>https://www.fontaine618.github.io/talk/naivi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Skill Rating Algorithm</title>
-      <link>https://www.fontaine618.github.io/talk/trueskill/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.fontaine618.github.io/talk/trueskill/</guid>
       <description></description>
     </item>
     

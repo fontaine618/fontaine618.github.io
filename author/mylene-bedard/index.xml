@@ -5,7 +5,7 @@
     <link>https://www.fontaine618.github.io/author/mylene-bedard/</link>
       <atom:link href="https://www.fontaine618.github.io/author/mylene-bedard/index.xml" rel="self" type="application/rss+xml" />
     <description>Mylène Bédard</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 20:16:27 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 20:16:27 -0500</lastBuildDate>
     <image>
       <url>https://www.fontaine618.github.io/media/icon_512.png</url>
       <title>Mylène Bédard</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Adaptive Multiple-Try MCMC Algorithms</title>
-      <link>https://www.fontaine618.github.io/publication/amtm-thesis/</link>
-      <pubDate>Sat, 01 Feb 2020 20:16:27 -0500</pubDate>
-      <guid>https://www.fontaine618.github.io/publication/amtm-thesis/</guid>
+      <title>An adaptive multiple-try Metropolis algorithm</title>
+      <link>https://www.fontaine618.github.io/publication/amtm/</link>
+      <pubDate>Tue, 01 Jun 2021 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/amtm/</guid>
       <description></description>
     </item>
     

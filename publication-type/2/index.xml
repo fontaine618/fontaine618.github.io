@@ -5,12 +5,20 @@
     <link>https://www.fontaine618.github.io/publication-type/2/</link>
       <atom:link href="https://www.fontaine618.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 20:16:27 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Simon Fontaine 2021</copyright><lastBuildDate>Tue, 01 Jun 2021 20:16:27 -0500</lastBuildDate>
     <image>
       <url>https://www.fontaine618.github.io/media/icon_512.png</url>
       <title>2</title>
       <link>https://www.fontaine618.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>An adaptive multiple-try Metropolis algorithm</title>
+      <link>https://www.fontaine618.github.io/publication/amtm/</link>
+      <pubDate>Tue, 01 Jun 2021 20:16:27 -0500</pubDate>
+      <guid>https://www.fontaine618.github.io/publication/amtm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Unified Approach to Sparse Tweedie Modeling of Multi-Source Insurance Claim Data</title>
