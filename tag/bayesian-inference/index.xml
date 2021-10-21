@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Bayesian inference&#34; | Simon Fontaine</title>
+    <link>https://fontaine618.github.io/tag/bayesian-inference/</link>
+      <atom:link href="https://fontaine618.github.io/tag/bayesian-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Bayesian inference&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Simon Fontaine</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;Bayesian inference&#34;</title>
+      <link>https://fontaine618.github.io/tag/bayesian-inference/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive multiple try Metropolis algorithm</title>
+      <link>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

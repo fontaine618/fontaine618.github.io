@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Simon Fontaine</title>
+    <link>https://fontaine618.github.io/tag/python/</link>
+      <atom:link href="https://fontaine618.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Simon Fontaine</copyright>
+    <image>
+      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://fontaine618.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>NAIVI</title>
+      <link>https://fontaine618.github.io/software/naivi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/software/naivi/</guid>
+      <description>&lt;p&gt;Implementation of &lt;a href=&#34;https://fontaine618.github.io/talk/missing-value-imputation-of-network-node-attributes/&#34;&gt;Fontaine and Zhu, 2021+&lt;/a&gt;. Automatic differentiation using &lt;code&gt;pyTorch&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;set.seed(1)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

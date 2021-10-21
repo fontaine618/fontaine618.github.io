@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Tweedie model&#34; | Simon Fontaine</title>
+    <link>https://fontaine618.github.io/tag/tweedie-model/</link>
+      <atom:link href="https://fontaine618.github.io/tag/tweedie-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Tweedie model&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Simon Fontaine</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;Tweedie model&#34;</title>
+      <link>https://fontaine618.github.io/tag/tweedie-model/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Approach to Sparse Tweedie Modeling of Multisource Insurance Claim Data</title>
+      <link>https://fontaine618.github.io/publication/fontaine-unified-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-unified-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

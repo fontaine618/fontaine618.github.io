@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Simon Fontaine</title>
+    <link>https://fontaine618.github.io/event/</link>
+      <atom:link href="https://fontaine618.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Simon Fontaine</copyright><lastBuildDate>Tue, 10 Aug 2021 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Events</title>
+      <link>https://fontaine618.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Missing Value Imputation of Network Node Attributes</title>
+      <link>https://fontaine618.github.io/talk/missing-value-imputation-of-network-node-attributes/</link>
+      <pubDate>Tue, 10 Aug 2021 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.io/talk/missing-value-imputation-of-network-node-attributes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Skill Rating Algorithms</title>
+      <link>https://fontaine618.github.io/talk/online-skill-rating-algorithms/</link>
+      <pubDate>Thu, 01 Aug 2019 08:30:00 -0400</pubDate>
+      <guid>https://fontaine618.github.io/talk/online-skill-rating-algorithms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

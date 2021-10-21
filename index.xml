@@ -5,7 +5,7 @@
     <link>https://fontaine618.github.io/</link>
       <atom:link href="https://fontaine618.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Fontaine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Simon Fontaine</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Simon Fontaine</copyright><lastBuildDate>Tue, 10 Aug 2021 10:00:00 -0400</lastBuildDate>
     <image>
       <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
       <title>Simon Fontaine</title>
@@ -13,41 +13,75 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://fontaine618.github.io/publication/example-copy/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/example-copy/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Missing Value Imputation of Network Node Attributes</title>
+      <link>https://fontaine618.github.io/talk/missing-value-imputation-of-network-node-attributes/</link>
+      <pubDate>Tue, 10 Aug 2021 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.io/talk/missing-value-imputation-of-network-node-attributes/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://fontaine618.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>An adaptive multiple try Metropolis algorithm</title>
+      <link>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proximal alternating direction method for regularized multi-task regression</title>
+      <link>https://fontaine618.github.io/publication/fontaine-proximal-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-proximal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Approach to Sparse Tweedie Modeling of Multisource Insurance Claim Data</title>
+      <link>https://fontaine618.github.io/publication/fontaine-unified-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-unified-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caught Looking: Analyzing Variation in Umpire Strike Zones</title>
+      <link>https://fontaine618.github.io/publication/fontaine-caught-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-caught-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Score</title>
+      <link>https://fontaine618.github.io/publication/fontaine-latent-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-latent-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MovieLens Datasets—Predicting and Analyzing User Ratings of Movies</title>
+      <link>https://fontaine618.github.io/publication/fontaine-movielens-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-movielens-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Skill Rating Algorithms</title>
+      <link>https://fontaine618.github.io/talk/online-skill-rating-algorithms/</link>
+      <pubDate>Thu, 01 Aug 2019 08:30:00 -0400</pubDate>
+      <guid>https://fontaine618.github.io/talk/online-skill-rating-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC adaptatifs à essais multiples</title>
+      <link>https://fontaine618.github.io/publication/fontaine-mcmc-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/publication/fontaine-mcmc-2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -56,6 +90,39 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fontaine618.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>aMTM</title>
+      <link>https://fontaine618.github.io/software/amtm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/software/amtm/</guid>
+      <description>&lt;p&gt;Implementation of &lt;a href=&#34;https://fontaine618.github.io/publication/fontaine-adaptive-2021/&#34;&gt;Fontaine and Bédard, 2021+&lt;/a&gt;. Wrapper for the main sampling routine written in &lt;code&gt;C++&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;set.seed(1)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSTweedie</title>
+      <link>https://fontaine618.github.io/software/mstweedie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/software/mstweedie/</guid>
+      <description>&lt;p&gt;Implementation of &lt;a href=&#34;https://fontaine618.github.io/publication/fontaine-unified-2020/&#34;&gt;Fontaine et al., 2020&lt;/a&gt;. Wrapper for the main routine written in &lt;code&gt;Fortran&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;set.seed(1)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NAIVI</title>
+      <link>https://fontaine618.github.io/software/naivi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.io/software/naivi/</guid>
+      <description>&lt;p&gt;Implementation of &lt;a href=&#34;https://fontaine618.github.io/talk/missing-value-imputation-of-network-node-attributes/&#34;&gt;Fontaine and Zhu, 2021+&lt;/a&gt;. Automatic differentiation using &lt;code&gt;pyTorch&lt;/code&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;set.seed(1)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
   </channel>
