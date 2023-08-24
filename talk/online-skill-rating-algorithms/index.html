@@ -1,4 +1,7 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: August 24, 2023 --><html lang="en-us" >
+
 
 <head>
   <meta charset="utf-8" />
@@ -7,58 +10,59 @@
   
   
   
-    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
   
 
   
+  
+
+
+
+
+
+
+
+
+
+
+
 
   
   
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
   
   
   
     
-    
-    
-  
-  
-
-  <meta name="author" content="Simon Fontaine" />
-
-  
-  
-  
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=family=Roboto+Mono&family=Roboto:wght@400;700&Merriweather&display=swap&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=family=Roboto+Mono&family=Roboto:wght@400;700&Merriweather&display=swap&display=swap" media="print" onload="this.media='all'">
     
   
-  <meta name="description" content="Skill rating algorithms are now ubiquitous in online competitive video games and are used not only to accurately compare players&#39; strength, but also to match players of similar proficiency against each other, thus ensuring fair and exciting matches. Solidly anchored in online approximate Bayesian inference, these modern algorithms only require a prior rating for each match participant and the outcome of the match to infer posterior ratings for each player. Efforts have been made in the last decade to incorporate auxiliary information in rating computations (such as players&#39; score in a match or their proficiency in different game modes) in order to get more accurate rating updates as well as generally faster convergence to the true underlying skills. However, as ratings also influence the matchmaking and therefore the new ratings, their distribution over all players is a highly dynamic system, where the interdependence of ratings and matchmaking impedes our ability to fully understand the impacts of potential improvements on live applications. We shall survey existing rating systems and explore the assessment challenges involved in enhancing and extending these algorithms." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://fontaine618.github.io/talk/online-skill-rating-algorithms/" />
-
-  
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-  
-  
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  
-
-  
-  
-  
-    <meta name="theme-color" content="hsl(48, 100%, 51%)" />
   
 
   
@@ -69,14 +73,14 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
 
   
   
   
     
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -92,41 +96,10 @@
     
     
     
-      
-    
-    
-      
-      
-        
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
-        
-      
-    
-
-    
-    
-    
 
     
 
     
-    
-      
-      
-
-      
-      
-
-      
-    
-      
-      
-
-      
-      
-
-      
     
       
       
@@ -239,50 +212,15 @@
   
   
   
-    
-      
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700%7CFauna+One&display=swap">
-      
-    
-  
-
   
   
   
-  
-  
-  <link rel="stylesheet" href="/css/wowchemy.d34895a5d2b3f16f482597071398872d.css" />
-
-  
-
-
-
-  
-
-  
-
-  
-
-
-
+  <link rel="stylesheet" href="/css/wowchemy.b1cae91514024839e11025c4b18fb501.css" />
 
   
   
   
 
-  
-
-  
-    <link rel="manifest" href="/manifest.webmanifest" />
-  
-
-  <link rel="icon" type="image/png" href="/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_180x180_fill_lanczos_center_3.png" />
-
-  <link rel="canonical" href="https://fontaine618.github.io/talk/online-skill-rating-algorithms/" />
-
-  
   
   
   
@@ -292,26 +230,110 @@
   
     
     
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" disabled>
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" >
+  
+
   
   
-  <meta property="twitter:card" content="summary" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-  <meta property="og:site_name" content="Simon Fontaine" />
-  <meta property="og:url" content="https://fontaine618.github.io/talk/online-skill-rating-algorithms/" />
-  <meta property="og:title" content="Online Skill Rating Algorithms | Simon Fontaine" />
-  <meta property="og:description" content="Skill rating algorithms are now ubiquitous in online competitive video games and are used not only to accurately compare players&#39; strength, but also to match players of similar proficiency against each other, thus ensuring fair and exciting matches. Solidly anchored in online approximate Bayesian inference, these modern algorithms only require a prior rating for each match participant and the outcome of the match to infer posterior ratings for each player. Efforts have been made in the last decade to incorporate auxiliary information in rating computations (such as players&#39; score in a match or their proficiency in different game modes) in order to get more accurate rating updates as well as generally faster convergence to the true underlying skills. However, as ratings also influence the matchmaking and therefore the new ratings, their distribution over all players is a highly dynamic system, where the interdependence of ratings and matchmaking impedes our ability to fully understand the impacts of potential improvements on live applications. We shall survey existing rating systems and explore the assessment challenges involved in enhancing and extending these algorithms." /><meta property="og:image" content="https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
-    
-      <meta
-        property="article:published_time"
-        content="2021-10-21T14:20:58-04:00"
-      />
-    
+  
+
+
+
+
+
+
+  <meta name="author" content="Simon Fontaine" />
+
+
+
+
+
+  
+
+<meta name="description" content="Skill rating algorithms are now ubiquitous in online competitive video games and are used not only to accurately compare players&#39; strength, but also to match players of similar proficiency against each other, thus ensuring fair and exciting matches. Solidly anchored in online approximate Bayesian inference, these modern algorithms only require a prior rating for each match participant and the outcome of the match to infer posterior ratings for each player. Efforts have been made in the last decade to incorporate auxiliary information in rating computations (such as players&#39; score in a match or their proficiency in different game modes) in order to get more accurate rating updates as well as generally faster convergence to the true underlying skills. However, as ratings also influence the matchmaking and therefore the new ratings, their distribution over all players is a highly dynamic system, where the interdependence of ratings and matchmaking impedes our ability to fully understand the impacts of potential improvements on live applications. We shall survey existing rating systems and explore the assessment challenges involved in enhancing and extending these algorithms." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://fontaine618.github.com/talk/online-skill-rating-algorithms/" />
+<link rel="canonical" href="https://fontaine618.github.com/talk/online-skill-rating-algorithms/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#c31432" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png" />
+<meta property="og:site_name" content="Simon Fontaine" />
+<meta property="og:url" content="https://fontaine618.github.com/talk/online-skill-rating-algorithms/" />
+<meta property="og:title" content="Online Skill Rating Algorithms | Simon Fontaine" />
+<meta property="og:description" content="Skill rating algorithms are now ubiquitous in online competitive video games and are used not only to accurately compare players&#39; strength, but also to match players of similar proficiency against each other, thus ensuring fair and exciting matches. Solidly anchored in online approximate Bayesian inference, these modern algorithms only require a prior rating for each match participant and the outcome of the match to infer posterior ratings for each player. Efforts have been made in the last decade to incorporate auxiliary information in rating computations (such as players&#39; score in a match or their proficiency in different game modes) in order to get more accurate rating updates as well as generally faster convergence to the true underlying skills. However, as ratings also influence the matchmaking and therefore the new ratings, their distribution over all players is a highly dynamic system, where the interdependence of ratings and matchmaking impedes our ability to fully understand the impacts of potential improvements on live applications. We shall survey existing rating systems and explore the assessment challenges involved in enhancing and extending these algorithms." /><meta property="og:image" content="https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2021-10-21T14:20:58-04:00"
+    />
+  
+  
     <meta property="article:modified_time" content="2019-08-01T08:30:00-04:00">
   
 
-  
+
+
+
 
 
 
@@ -327,7 +349,7 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://fontaine618.github.io/talk/online-skill-rating-algorithms/"
+    "@id": "https://fontaine618.github.com/talk/online-skill-rating-algorithms/"
   },
   "name": "Online Skill Rating Algorithms",
   
@@ -360,15 +382,37 @@
 
   
 
+
+
+
+  
+  
+  
+
+  
   
 
   
 
 
-
-
-
+  
   <title>Online Skill Rating Algorithms | Simon Fontaine</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
 </head>
 
 
@@ -383,7 +427,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.09c555f11fc9292a2ccfd77590accf2f.js"></script>
+  <script src="/js/wowchemy-init.min.2a7b4dc7d7846171b6299e17e1f3ac71.js"></script>
 
   
 
@@ -427,8 +471,12 @@
 
 
 
-  <div class="page-header">
-    
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
 
 
 
@@ -441,188 +489,186 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container-xl">
-
-    
-    <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Simon Fontaine</a>
-    </div>
-    
-
-    
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
-    <span><i class="fas fa-bars"></i></span>
-    </button>
-    
-
-    
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Simon Fontaine</a>
-    </div>
-    
-
-    
-    
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
 
       
-      <ul class="navbar-nav d-md-inline-flex">
-        
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
         
-
-        
-        
-        
+        <ul class="navbar-nav d-md-inline-flex">
           
-        
 
-        
-
-        
-        
-        
-        
-
-        
           
-            
-            
+
           
           
+          
+
+          
+
+          
+          
+          
+          
+
+          
             
             
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/"><span><i class="fa-solid fa-house"></i> HOME</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
             
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
               
             
             
           
+
+          <li class="nav-item">
+            <a class="nav-link " href="/about"><span><i class="fa-solid fa-user"></i> ABOUT</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span><i class="fa-solid fa-flask"></i> RESEARCH</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/project/microbiome"><span><i class="fa-solid fa-virus"></i> Microbiome Data Analysis</span></a>
+              
+                <a class="dropdown-item" href="/project/bci"><span><i class="fa-solid fa-brain"></i> Brain-Computer Interfaces</span></a>
+              
+                <a class="dropdown-item" href="/project/applied"><span>Applied Research</span></a>
+              
+                <a class="dropdown-item" href="/project/misc"><span>Miscellaneous</span></a>
+              
+                <a class="dropdown-item" href="/publication"><span>Publications</span></a>
+              
+                <a class="dropdown-item" href="/event"><span>Talks</span></a>
+              
+                <a class="dropdown-item" href="/software"><span>Software</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/teaching"><span><i class="fa-solid fa-chalkboard-user"></i> TEACHING</span></a>
+          </li>
+
+          
+          
+
         
 
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
         <li class="nav-item">
-          <a class="nav-link " href="/#about"><span>Home</span></a>
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
-
-        
-        
-
         
 
         
         
         
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/publication"><span>Research</span></a>
-        </li>
 
         
         
 
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/software"><span>Software</span></a>
-        </li>
-
-        
-        
-
-      
-
-        
       </ul>
+
     </div>
-
-    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-
-      
-      
-        
-      
-
-      
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
-
-      
-      
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-          <i class="fas fa-moon" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
-
-      
-      
-
-    </ul>
-
-  </div>
-</nav>
+  </nav>
+</header>
 
 
   </div>
 
   <div class="page-body">
+    
+    
+    
+
     <div class="pub">
 
   
+
 
 
 
@@ -678,10 +724,12 @@
   
   
   
-  
-  
 
   
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/misc/">Misc</a></span>
   
 
 </div>
@@ -701,7 +749,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">Skill rating algorithms are now ubiquitous in online competitive video games and are used not only to accurately compare players' strength, but also to match players of similar proficiency against each other, thus ensuring fair and exciting matches. Solidly anchored in online approximate Bayesian inference, these modern algorithms only require a prior rating for each match participant and the outcome of the match to infer posterior ratings for each player. Efforts have been made in the last decade to incorporate auxiliary information in rating computations (such as players' score in a match or their proficiency in different game modes) in order to get more accurate rating updates as well as generally faster convergence to the true underlying skills. However, as ratings also influence the matchmaking and therefore the new ratings, their distribution over all players is a highly dynamic system, where the interdependence of ratings and matchmaking impedes our ability to fully understand the impacts of potential improvements on live applications. We shall survey existing rating systems and explore the assessment challenges involved in enhancing and extending these algorithms.</p>
+      <p class="pub-abstract">Skill rating algorithms are now ubiquitous in online competitive video games and are used not only to accurately compare players&rsquo; strength, but also to match players of similar proficiency against each other, thus ensuring fair and exciting matches. Solidly anchored in online approximate Bayesian inference, these modern algorithms only require a prior rating for each match participant and the outcome of the match to infer posterior ratings for each player. Efforts have been made in the last decade to incorporate auxiliary information in rating computations (such as players&rsquo; score in a match or their proficiency in different game modes) in order to get more accurate rating updates as well as generally faster convergence to the true underlying skills. However, as ratings also influence the matchmaking and therefore the new ratings, their distribution over all players is a highly dynamic system, where the interdependence of ratings and matchmaking impedes our ability to fully understand the impacts of potential improvements on live applications. We shall survey existing rating systems and explore the assessment challenges involved in enhancing and extending these algorithms.</p>
     
 
     <div class="row">
@@ -768,8 +816,7 @@
 
 
 
-
-<div class="share-box" aria-hidden="true">
+<div class="share-box">
   <ul class="share">
     
       
@@ -779,8 +826,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://fontaine618.github.io/talk/online-skill-rating-algorithms/&amp;text=Online%20Skill%20Rating%20Algorithms" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffontaine618.github.com%2Ftalk%2Fonline-skill-rating-algorithms%2F&amp;text=Online&#43;Skill&#43;Rating&#43;Algorithms" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -792,8 +843,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://fontaine618.github.io/talk/online-skill-rating-algorithms/&amp;t=Online%20Skill%20Rating%20Algorithms" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffontaine618.github.com%2Ftalk%2Fonline-skill-rating-algorithms%2F&amp;t=Online&#43;Skill&#43;Rating&#43;Algorithms" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -805,8 +860,14 @@
       
       
       
+      
+      
+      
+      
+        
+      
       <li>
-        <a href="mailto:?subject=Online%20Skill%20Rating%20Algorithms&amp;body=https://fontaine618.github.io/talk/online-skill-rating-algorithms/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Online%20Skill%20Rating%20Algorithms&amp;body=https%3A%2F%2Ffontaine618.github.com%2Ftalk%2Fonline-skill-rating-algorithms%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -818,8 +879,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://fontaine618.github.io/talk/online-skill-rating-algorithms/&amp;title=Online%20Skill%20Rating%20Algorithms" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffontaine618.github.com%2Ftalk%2Fonline-skill-rating-algorithms%2F&amp;title=Online&#43;Skill&#43;Rating&#43;Algorithms" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -831,8 +896,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="whatsapp://send?text=Online%20Skill%20Rating%20Algorithms%20https://fontaine618.github.io/talk/online-skill-rating-algorithms/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Online&#43;Skill&#43;Rating&#43;Algorithms%20https%3A%2F%2Ffontaine618.github.com%2Ftalk%2Fonline-skill-rating-algorithms%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -844,8 +913,12 @@
       
       
       
+      
+      
+      
+      
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://fontaine618.github.io/talk/online-skill-rating-algorithms/&amp;title=Online%20Skill%20Rating%20Algorithms" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ffontaine618.github.com%2Ftalk%2Fonline-skill-rating-algorithms%2F&amp;title=Online&#43;Skill&#43;Rating&#43;Algorithms" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -881,77 +954,6 @@
 
 
 
-  
-  
-  
-    
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-      
-      <a href="https://fontaine618.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/simfont/avatar_huf4ee779f7fb3c931145d08053f8586fb_13956009_270x270_fill_q75_lanczos_center.jpg" alt="Simon Fontaine"></a>
-    
-
-    <div class="media-body">
-      <h5 class="card-title"><a href="https://fontaine618.github.io/">Simon Fontaine</a></h5>
-      <h6 class="card-subtitle">Ph.D. Candidate in Statistics</h6>
-      
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:simfont@umich.edu" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=whQeDxEAAAAJ" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/fontaine618" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
-
 
   
     
@@ -977,11 +979,6 @@
 
 
 
-
-
-
-  
-  
 
 
 
@@ -1001,20 +998,39 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
   
-  <p class="powered-by">
-    © 2022 Simon Fontaine
+  <p class="powered-by copyright-license-text">
+    © 2023 Simon Fontaine
   </p>
   
 
-  
-  
-
-
 
 
 
@@ -1029,7 +1045,7 @@
       
       
       
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
     
   </p>
 </footer>
@@ -1037,6 +1053,101 @@
     </div>
     
   </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.32ee83730ed883becad04bc5170512cc.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.91534f6cb18c3621254d412c69186d7c.js"></script>
+
+
+
+
+
+
 
   
 <div id="modal" class="modal fade" role="dialog">
@@ -1049,7 +1160,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
+        
+        <pre><code></code></pre>
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
@@ -1064,106 +1176,20 @@
   </div>
 </div>
 
-      
 
-    
-    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
 
-    
-    
-    
-      
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      
 
-      
-      
 
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.4/mermaid.min.js" integrity="sha512-as1BF4+iHZ3BVO6LLDQ7zrbvTXM+c/1iZ1qII/c3c4L8Rn5tHLpFUtpaEtBNS92f+xGsCzsD7b62XP3XYap6oA==" crossorigin="anonymous" title="mermaid"></script>
-      
 
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/shell.min.js" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/markdown.min.js" crossorigin="anonymous"></script>
-        
-      
 
-    
 
-    
-    
-    
 
-    
-    
 
-    
-    
-    
-      
-      <script id="search-hit-fuse-template" type="text/x-template">
-        <div class="search-hit" id="summary-{{key}}">
-          <div class="search-hit-content">
-            <div class="search-hit-name">
-              <a href="{{relpermalink}}">{{title}}</a>
-              <div class="article-metadata search-hit-type">{{type}}</div>
-              <p class="search-hit-description">{{snippet}}</p>
-            </div>
-          </div>
-        </div>
-      </script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-      
-    
 
-    
-    
 
-    
-    
-    
-    
 
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
 
-    
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
-    <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
-
-    
 
 
 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc | Simon Fontaine</title>
+    <link>https://fontaine618.github.com/category/misc/</link>
+      <atom:link href="https://fontaine618.github.com/category/misc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Misc</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Misc</title>
+      <link>https://fontaine618.github.com/category/misc/</link>
+    </image>
+    
+    <item>
+      <title>An adaptive multiple try Metropolis algorithm</title>
+      <link>https://fontaine618.github.com/publication/fontaine-adaptive-2021/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-adaptive-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing Value Imputation of Network Node Attributes</title>
+      <link>https://fontaine618.github.com/talk/missing-value-imputation-of-network-node-attributes/</link>
+      <pubDate>Tue, 10 Aug 2021 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/missing-value-imputation-of-network-node-attributes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Approach to Sparse Tweedie Modeling of Multisource Insurance Claim Data</title>
+      <link>https://fontaine618.github.com/publication/fontaine-unified-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-unified-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Skill Rating Algorithms</title>
+      <link>https://fontaine618.github.com/talk/online-skill-rating-algorithms/</link>
+      <pubDate>Thu, 01 Aug 2019 08:30:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/online-skill-rating-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC adaptatifs à essais multiples</title>
+      <link>https://fontaine618.github.com/publication/fontaine-mcmc-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-mcmc-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

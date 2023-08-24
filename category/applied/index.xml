@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied | Simon Fontaine</title>
+    <link>https://fontaine618.github.com/category/applied/</link>
+      <atom:link href="https://fontaine618.github.com/category/applied/index.xml" rel="self" type="application/rss+xml" />
+    <description>Applied</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Applied</title>
+      <link>https://fontaine618.github.com/category/applied/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Incident Adenocarcinoma of the Esophagus or Gastric Cardia Using Machine Learning of Electronic Health Records</title>
+      <link>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background and Context&lt;/strong&gt;: Tools that can automatically predict incident esophageal
+adenocarcinoma (EAC) and gastric cardia adenocarcinoma (GCA) using electronic health
+records (EHR) to guide screening decisions are needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Findings&lt;/strong&gt;: In this retrospective case-control analysis using machine learning, the Kettles
+Esophageal and Cardia Adenocarcinoma predictioN (K-ECAN) Tool was well calibrated and
+more accurate than available alternatives. While GERD was associated with EAC/GCA, other
+factors added more information to the model.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Limitations&lt;/strong&gt;: K-ECAN was developed and validated within the Veterans Health Administration
+(VHA) population. Non-Veterans may differ in terms of the frequency of medical encounters and
+laboratory blood draws, and non-VHA settings may differ in their practice of diagnostic coding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clinical Research Relevance&lt;/strong&gt;: The Kettles Esophageal and Cardia Adenocarcinoma predictioN
+Tool is an automated, valid tool predicting incident esophageal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using machine learning to adapt tools predicting esophageal adenocarcinoma for use with electronic medical data</title>
+      <link>https://fontaine618.github.com/talk/using-machine-learning-to-adapt-tools-predicting-esophageal-adenocarcinoma-for-use-with-electronic-medical-data/</link>
+      <pubDate>Fri, 06 May 2022 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/using-machine-learning-to-adapt-tools-predicting-esophageal-adenocarcinoma-for-use-with-electronic-medical-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

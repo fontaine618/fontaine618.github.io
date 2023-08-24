@@ -6,6 +6,14 @@
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fontaine618.github.com/category/applied/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fontaine618.github.com/categories/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,15 +26,19 @@
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fontaine618.github.com/talks/lsvcmm-jsm/</loc>
+    <loc>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</loc>
     <lastmod>2023-08-08T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fontaine618.github.com/talks/</loc>
+    <loc>https://fontaine618.github.com/category/microbiome/</loc>
     <lastmod>2023-08-08T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fontaine618.github.com/talks/polda-icsa/</loc>
+    <loc>https://fontaine618.github.com/event/</loc>
+    <lastmod>2023-08-08T10:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fontaine618.github.com/talk/polda-pooling-overdispersed-logistic-regressions-for-microbiome-differential-abundance-analysis/</loc>
     <lastmod>2023-06-13T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,6 +94,10 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fontaine618.github.com/category/misc/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fontaine618.github.com/tag/multiple-try-metropolis/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,15 +106,19 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fontaine618.github.com/talks/hosea-michamp/</loc>
+    <loc>https://fontaine618.github.com/talk/using-machine-learning-to-adapt-tools-predicting-esophageal-adenocarcinoma-for-use-with-electronic-medical-data/</loc>
     <lastmod>2022-05-06T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fontaine618.github.com/talks/naivi-jsm/</loc>
+    <loc>https://fontaine618.github.com/talk/missing-value-imputation-of-network-node-attributes/</loc>
     <lastmod>2021-08-10T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fontaine618.github.com/publication-type/4/</loc>
+    <lastmod>2021-10-21T12:06:35-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fontaine618.github.com/category/course-work/</loc>
     <lastmod>2021-10-21T12:06:35-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -146,7 +166,7 @@
     <lastmod>2021-10-21T12:48:04-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fontaine618.github.com/talks/skill-jsm/</loc>
+    <loc>https://fontaine618.github.com/talk/online-skill-rating-algorithms/</loc>
     <lastmod>2019-08-01T08:30:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -165,9 +185,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fontaine618.github.com/tag/c-/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fontaine618.github.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fontaine618.github.com/tag/fortran/</loc>
