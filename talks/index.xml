@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Simon Fontaine</title>
+    <link>https://fontaine618.github.com/talks/</link>
+      <atom:link href="https://fontaine618.github.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://fontaine618.github.com/talks/</link>
+    </image>
+    
+    <item>
+      <title>Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</title>
+      <link>https://fontaine618.github.com/talks/lsvcmm-jsm/</link>
+      <pubDate>Tue, 08 Aug 2023 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talks/lsvcmm-jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POLDA: Pooling Overdispersed Logistic Regressions for Microbiome Differential Abundance Analysis</title>
+      <link>https://fontaine618.github.com/talks/polda-icsa/</link>
+      <pubDate>Tue, 13 Jun 2023 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talks/polda-icsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning to adapt tools predicting esophageal adenocarcinoma for use with electronic medical data</title>
+      <link>https://fontaine618.github.com/talks/hosea-michamp/</link>
+      <pubDate>Fri, 06 May 2022 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talks/hosea-michamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing Value Imputation of Network Node Attributes</title>
+      <link>https://fontaine618.github.com/talks/naivi-jsm/</link>
+      <pubDate>Tue, 10 Aug 2021 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talks/naivi-jsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Skill Rating Algorithms</title>
+      <link>https://fontaine618.github.com/talks/skill-jsm/</link>
+      <pubDate>Thu, 01 Aug 2019 08:30:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talks/skill-jsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

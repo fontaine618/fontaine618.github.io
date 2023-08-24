@@ -2,29 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Simon Fontaine</title>
-    <link>https://fontaine618.github.io/publication-type/2/</link>
-      <atom:link href="https://fontaine618.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fontaine618.github.com/publication-type/2/</link>
+      <atom:link href="https://fontaine618.github.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Simon Fontaine</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://fontaine618.github.io/publication-type/2/</link>
+      <link>https://fontaine618.github.com/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Predicting Incident Adenocarcinoma of the Esophagus or Gastric Cardia Using Machine Learning of Electronic Health Records</title>
+      <link>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background and Context&lt;/strong&gt;: Tools that can automatically predict incident esophageal
+adenocarcinoma (EAC) and gastric cardia adenocarcinoma (GCA) using electronic health
+records (EHR) to guide screening decisions are needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Findings&lt;/strong&gt;: In this retrospective case-control analysis using machine learning, the Kettles
+Esophageal and Cardia Adenocarcinoma predictioN (K-ECAN) Tool was well calibrated and
+more accurate than available alternatives. While GERD was associated with EAC/GCA, other
+factors added more information to the model.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Limitations&lt;/strong&gt;: K-ECAN was developed and validated within the Veterans Health Administration
+(VHA) population. Non-Veterans may differ in terms of the frequency of medical encounters and
+laboratory blood draws, and non-VHA settings may differ in their practice of diagnostic coding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clinical Research Relevance&lt;/strong&gt;: The Kettles Esophageal and Cardia Adenocarcinoma predictioN
+Tool is an automated, valid tool predicting incident esophageal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An adaptive multiple try Metropolis algorithm</title>
-      <link>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</guid>
+      <link>https://fontaine618.github.com/publication/fontaine-adaptive-2021/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-adaptive-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Approach to Sparse Tweedie Modeling of Multisource Insurance Claim Data</title>
-      <link>https://fontaine618.github.io/publication/fontaine-unified-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-unified-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-unified-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-unified-2020/</guid>
       <description></description>
     </item>
     

@@ -1,70 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Simon Fontaine</title>
-    <link>https://fontaine618.github.io/publication/</link>
-      <atom:link href="https://fontaine618.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Simon Fontaine</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <title>Publications | Simon Fontaine</title>
+    <link>https://fontaine618.github.com/publication/</link>
+      <atom:link href="https://fontaine618.github.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
-      <title>Research</title>
-      <link>https://fontaine618.github.io/publication/</link>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://fontaine618.github.com/publication/</link>
     </image>
     
     <item>
+      <title>Predicting Incident Adenocarcinoma of the Esophagus or Gastric Cardia Using Machine Learning of Electronic Health Records</title>
+      <link>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/rubenstein-predicting-2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background and Context&lt;/strong&gt;: Tools that can automatically predict incident esophageal
+adenocarcinoma (EAC) and gastric cardia adenocarcinoma (GCA) using electronic health
+records (EHR) to guide screening decisions are needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Findings&lt;/strong&gt;: In this retrospective case-control analysis using machine learning, the Kettles
+Esophageal and Cardia Adenocarcinoma predictioN (K-ECAN) Tool was well calibrated and
+more accurate than available alternatives. While GERD was associated with EAC/GCA, other
+factors added more information to the model.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Limitations&lt;/strong&gt;: K-ECAN was developed and validated within the Veterans Health Administration
+(VHA) population. Non-Veterans may differ in terms of the frequency of medical encounters and
+laboratory blood draws, and non-VHA settings may differ in their practice of diagnostic coding.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clinical Research Relevance&lt;/strong&gt;: The Kettles Esophageal and Cardia Adenocarcinoma predictioN
+Tool is an automated, valid tool predicting incident esophageal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An adaptive multiple try Metropolis algorithm</title>
-      <link>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-adaptive-2021/</guid>
+      <link>https://fontaine618.github.com/publication/fontaine-adaptive-2021/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-adaptive-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U.S. Mortality 2007-2018: Identifying Trends and Patterns in Mortality Trajectories</title>
+      <link>https://fontaine618.github.com/publication/fontaine-qr-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-qr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A proximal alternating direction method for regularized multi-task regression</title>
-      <link>https://fontaine618.github.io/publication/fontaine-proximal-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-proximal-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-proximal-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-proximal-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Approach to Sparse Tweedie Modeling of Multisource Insurance Claim Data</title>
-      <link>https://fontaine618.github.io/publication/fontaine-unified-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-unified-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-unified-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-unified-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caught Looking: Analyzing Variation in Umpire Strike Zones</title>
-      <link>https://fontaine618.github.io/publication/fontaine-caught-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-caught-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-caught-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-caught-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Score</title>
-      <link>https://fontaine618.github.io/publication/fontaine-latent-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-latent-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-latent-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-latent-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MovieLens Datasets—Predicting and Analyzing User Ratings of Movies</title>
-      <link>https://fontaine618.github.io/publication/fontaine-movielens-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-movielens-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-movielens-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-movielens-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCMC adaptatifs à essais multiples</title>
-      <link>https://fontaine618.github.io/publication/fontaine-mcmc-2019/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-mcmc-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-mcmc-2019/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-mcmc-2019/</guid>
       <description></description>
     </item>
     

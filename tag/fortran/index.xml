@@ -2,25 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fortran | Simon Fontaine</title>
-    <link>https://fontaine618.github.io/tag/fortran/</link>
-      <atom:link href="https://fontaine618.github.io/tag/fortran/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fontaine618.github.com/tag/fortran/</link>
+      <atom:link href="https://fontaine618.github.com/tag/fortran/index.xml" rel="self" type="application/rss+xml" />
     <description>Fortran</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Simon Fontaine</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
       <title>Fortran</title>
-      <link>https://fontaine618.github.io/tag/fortran/</link>
+      <link>https://fontaine618.github.com/tag/fortran/</link>
     </image>
     
     <item>
       <title>MSTweedie</title>
-      <link>https://fontaine618.github.io/software/mstweedie/</link>
+      <link>https://fontaine618.github.com/software/mstweedie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/software/mstweedie/</guid>
-      <description>&lt;p&gt;Implementation of &lt;a href=&#34;https://fontaine618.github.io/publication/fontaine-unified-2020/&#34;&gt;Fontaine et al., 2020&lt;/a&gt;. Wrapper for the main routine written in &lt;code&gt;Fortran&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;set.seed(1)
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <guid>https://fontaine618.github.com/software/mstweedie/</guid>
+      <description>&lt;p&gt;Implementation of &lt;a href=&#34;https://fontaine618.github.com/publication/fontaine-unified-2020/&#34;&gt;Fontaine et al., 2020&lt;/a&gt;. Wrapper for the main routine written in &lt;code&gt;Fortran&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;set.seed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
   </channel>

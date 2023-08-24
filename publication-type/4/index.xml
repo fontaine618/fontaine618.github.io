@@ -2,45 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Simon Fontaine</title>
-    <link>https://fontaine618.github.io/publication-type/4/</link>
-      <atom:link href="https://fontaine618.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fontaine618.github.com/publication-type/4/</link>
+      <atom:link href="https://fontaine618.github.com/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Simon Fontaine</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fontaine618.github.io/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
       <title>4</title>
-      <link>https://fontaine618.github.io/publication-type/4/</link>
+      <link>https://fontaine618.github.com/publication-type/4/</link>
     </image>
     
     <item>
+      <title>U.S. Mortality 2007-2018: Identifying Trends and Patterns in Mortality Trajectories</title>
+      <link>https://fontaine618.github.com/publication/fontaine-qr-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-qr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A proximal alternating direction method for regularized multi-task regression</title>
-      <link>https://fontaine618.github.io/publication/fontaine-proximal-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-proximal-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-proximal-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-proximal-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caught Looking: Analyzing Variation in Umpire Strike Zones</title>
-      <link>https://fontaine618.github.io/publication/fontaine-caught-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-caught-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-caught-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-caught-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Variable Modeling of Paired Comparisons with Application to NCAA Men’s Basketball Score</title>
-      <link>https://fontaine618.github.io/publication/fontaine-latent-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-latent-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-latent-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-latent-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MovieLens Datasets—Predicting and Analyzing User Ratings of Movies</title>
-      <link>https://fontaine618.github.io/publication/fontaine-movielens-2020/</link>
+      <link>https://fontaine618.github.com/publication/fontaine-movielens-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.io/publication/fontaine-movielens-2020/</guid>
+      <guid>https://fontaine618.github.com/publication/fontaine-movielens-2020/</guid>
       <description></description>
     </item>
     
