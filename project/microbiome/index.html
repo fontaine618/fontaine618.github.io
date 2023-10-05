@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: August 24, 2023 --><html lang="en-us" >
+<!-- Last Published: October 4, 2023 --><html lang="en-us" >
 
 
 <head>
@@ -57,8 +57,8 @@
   
     
       
-      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=family=Roboto+Mono&family=Roboto:wght@400;700&Merriweather&display=swap&display=swap">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=family=Roboto+Mono&family=Roboto:wght@400;700&Merriweather&display=swap&display=swap" media="print" onload="this.media='all'">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Montserrat:wght@700&Merriweather&display=swap&family=Bungee+Shade&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Montserrat:wght@700&Merriweather&display=swap&family=Bungee+Shade&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -215,7 +215,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.b1cae91514024839e11025c4b18fb501.css" />
+  <link rel="stylesheet" href="/css/wowchemy.4b0f8ce2fe28e05e6cf11a43dad7913a.css" />
 
   
   
@@ -314,11 +314,11 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://fontaine618.github.com/project/microbiome/featured.jpg" />
+<meta property="twitter:image" content="https://fontaine618.github.com/project/microbiome/featured.jpeg" />
 <meta property="og:site_name" content="Simon Fontaine" />
 <meta property="og:url" content="https://fontaine618.github.com/project/microbiome/" />
 <meta property="og:title" content="MICROBIOME DATA ANALYSIS | Simon Fontaine" />
-<meta property="og:description" content="" /><meta property="og:image" content="https://fontaine618.github.com/project/microbiome/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://fontaine618.github.com/project/microbiome/featured.jpeg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -450,6 +450,10 @@
     <div class="container-xl">
 
       
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Simon Fontaine</a>
+      </div>
+      
 
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
@@ -458,6 +462,10 @@
       </button>
       
 
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Simon Fontaine</a>
+      </div>
       
 
       
@@ -711,6 +719,24 @@
       <h1 class="hero-title">MICROBIOME DATA ANALYSIS</h1>
     
 
+    
+      <div class="hero-lead"><p>Advances in high-throughput sequencing technologies have enabled the study of the human microbiome, which is the collection of microorganisms that live in and on the human body. The microbiome is a key component of human health and disease; many recent works have shown that the microbiome is associated with a wide range of diseases and conditions, including obesity, diabetes, and cancer.</p>
+<p>Microbiome data features many important features that need to be accounted for:</p>
+<ul>
+<li><strong>High dimensionality</strong>: the number of features (taxa) is generally much larger than the number of samples.</li>
+<li><strong>Sparsity</strong>: most microbial species are not present in most individuals (zero-inflation).</li>
+<li><strong>Compositionality</strong>: due to the sequencing process, read count varies between samples and is not directly comparable between taxa.
+For this reason, only relative comparisons are generally feasible, though some methods have been proposed to overcome this issue.</li>
+<li><strong>Heterogeneity</strong>: the microbial compositions can differ widely between individuals or body sites, making direct comparison often difficult.
+There is some interest in <em>enterotypes</em>, which are essentially clusters of individuals with similar microbial compositions.</li>
+<li><strong>Tree-structured</strong>: taxonomic or phylogenetic information is often available in addition to the abundance data, and there is often of interest or necessity in analyzing the composition in relation to the tree structure.</li>
+</ul>
+<p>I am currently working on the following projects:</p>
+<ul>
+<li><strong>Longitudinal Differential Analysis</strong> (<em>with Prof. Gen Li, UM Biostatistics, and Prof. Ji Zhu, UM Statistics</em>): the goal is to identify time points or intervals where microbial composition differs between conditions. This work is motivated by an application to oral cancer progression in relation to the oral microbiome and a tumor-supressor gene in collaboration with <em>Dr Nisha D&rsquo;Silva</em> (UM Periodontics and Oral Medicine) and her team.</li>
+<li><strong>Differential Abundance Analysis</strong> (<em>with Mukai Wang, UM Biostatistics, Prof. Gen Li, UM Biostatistics, and Prof. Hui Jiang, UM Biotatistics</em>): the goal is to identify taxa that are differentially abundant between conditions with particular care to account for zero-inflation, compositionality and distributional robustness.</li>
+</ul>
+</div>
     
 
     
