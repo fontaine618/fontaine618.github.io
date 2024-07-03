@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: October 4, 2023 --><html lang="en-us" >
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: July 3, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -10,7 +10,7 @@
   
   
   
-    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
   
 
   
@@ -73,14 +73,14 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
   
     
     
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -90,6 +90,14 @@
       
       
     
+    
+      
+        
+      
+        
+      
+        
+      
     
     
 
@@ -215,7 +223,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.4b0f8ce2fe28e05e6cf11a43dad7913a.css" />
+  <link rel="stylesheet" href="/css/wowchemy.0e26cd00c95f7aa47d1fb4f999ebc29c.css" />
 
   
   
@@ -236,6 +244,7 @@
 
   
   
+
 
 
 
@@ -315,6 +324,12 @@
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:image" content="https://fontaine618.github.com/project/microbiome/featured.jpeg" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
 <meta property="og:site_name" content="Simon Fontaine" />
 <meta property="og:url" content="https://fontaine618.github.com/project/microbiome/" />
 <meta property="og:title" content="MICROBIOME DATA ANALYSIS | Simon Fontaine" />
@@ -383,7 +398,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.2a7b4dc7d7846171b6299e17e1f3ac71.js"></script>
+  <script src="/js/wowchemy-init.min.db21e13b9b5c4f4b947717750ec8b3cc.js"></script>
 
   
 
@@ -636,6 +651,13 @@
 
 
   
+  
+    
+
+
+
+
+
 
 
 
@@ -659,7 +681,6 @@
 
   
   
-
 
 
 
@@ -724,7 +745,7 @@
 <p>Microbiome data features many important features that need to be accounted for:</p>
 <ul>
 <li><strong>High dimensionality</strong>: the number of features (taxa) is generally much larger than the number of samples.</li>
-<li><strong>Sparsity</strong>: most microbial species are not present in most individuals (zero-inflation).</li>
+<li><strong>Sparsity</strong>: in a given study, many microbial species are not present in many individuals (true zeros) and the sequencing procedure can produce null counts even if a specie is present (sampling zeros).</li>
 <li><strong>Compositionality</strong>: due to the sequencing process, read count varies between samples and is not directly comparable between taxa.
 For this reason, only relative comparisons are generally feasible, though some methods have been proposed to overcome this issue.</li>
 <li><strong>Heterogeneity</strong>: the microbial compositions can differ widely between individuals or body sites, making direct comparison often difficult.
@@ -754,8 +775,15 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
   </div>
 </section>
 
+  
 
   
+  
+    
+
+
+
+
 
 
 
@@ -880,6 +908,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
 
 
 
+
   
 
 
@@ -905,8 +934,15 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
   </div>
 </section>
 
+  
 
   
+  
+    
+
+
+
+
 
 
 
@@ -1031,6 +1067,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
 
 
 
+
   
 
 
@@ -1039,6 +1076,78 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
 <div class="col-12 col-lg-8">
 
   
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/" >Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</a>
+    </div>
+
+    
+    <a href="/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/"  class="summary-link">
+      <div class="article-style">
+        Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 18, 2024 10:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Beijing, China</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      Simon Fontaine</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Presenting"></i>, <span >
+      Nisha J D&#39;Silva</span>, <span >
+      Marcell Costa De Medeiros</span>, <span >
+      Ji Zhu</span>, <span >
+      Gen Li</span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
 
   
     
@@ -1096,7 +1205,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
   <span >
       Simon Fontaine</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Presenting"></i>, <span >
       Nisha J D&#39;Silva</span>, <span >
-      Marcell Costa de Medeiros</span>, <span >
+      Marcell Costa De Medeiros</span>, <span >
       Ji Zhu</span>, <span >
       Gen Li</span>
       </div>
@@ -1239,6 +1348,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
   </div>
 </section>
 
+  
 
 
   </div>
@@ -1282,7 +1392,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
 
   
   <p class="powered-by copyright-license-text">
-    © 2023 Simon Fontaine
+    © 2024 Simon Fontaine
   </p>
   
 
@@ -1300,7 +1410,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
       
       
       
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
     
   </p>
 </footer>
@@ -1312,7 +1422,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
   
 
 
-<script src="/js/vendor-bundle.min.32ee83730ed883becad04bc5170512cc.js"></script>
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
 
 
 
@@ -1378,8 +1488,17 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
 
 
 
-<script id="page-data" type="application/json">{"use_headroom":true}</script>
 
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
   <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
@@ -1396,7 +1515,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
   
 
 
-<script src="/en/js/wowchemy.min.91534f6cb18c3621254d412c69186d7c.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
@@ -1432,7 +1551,7 @@ There is some interest in <em>enterotypes</em>, which are essentially clusters o
 </div>
 
 
-  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

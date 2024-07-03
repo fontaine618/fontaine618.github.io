@@ -5,12 +5,20 @@
     <link>https://fontaine618.github.com/category/microbiome/</link>
       <atom:link href="https://fontaine618.github.com/category/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 10:00:00 -0400</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 10:00:00 -0400</lastBuildDate>
     <image>
       <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
       <title>Microbiome</title>
       <link>https://fontaine618.github.com/category/microbiome/</link>
     </image>
+    
+    <item>
+      <title>Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</title>
+      <link>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</link>
+      <pubDate>Thu, 18 Jul 2024 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</title>

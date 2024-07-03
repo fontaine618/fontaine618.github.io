@@ -5,12 +5,20 @@
     <link>https://fontaine618.github.com/</link>
       <atom:link href="https://fontaine618.github.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Fontaine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
       <title>Simon Fontaine</title>
       <link>https://fontaine618.github.com/</link>
     </image>
+    
+    <item>
+      <title>Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</title>
+      <link>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</link>
+      <pubDate>Thu, 18 Jul 2024 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Incident Adenocarcinoma of the Esophagus or Gastric Cardia Using Machine Learning of Electronic Health Records</title>
@@ -186,9 +194,9 @@ Tool is an automated, valid tool predicting incident esophageal&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://fontaine618.github.com/admin/config.yml</link>
+      <link>https://fontaine618.github.com/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.com/admin/config.yml</guid>
+      <guid>https://fontaine618.github.com/admin/</guid>
       <description></description>
     </item>
     
