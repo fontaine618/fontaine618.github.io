@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCI | Simon Fontaine</title>
+    <link>https://fontaine618.github.com/category/bci/</link>
+      <atom:link href="https://fontaine618.github.com/category/bci/index.xml" rel="self" type="application/rss+xml" />
+    <description>BCI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fontaine618.github.com/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>BCI</title>
+      <link>https://fontaine618.github.com/category/bci/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Latent Factor Regression for EEG-Based Brain-Computer Interfaces</title>
+      <link>https://fontaine618.github.com/publication/fontaine-dynamic-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-dynamic-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

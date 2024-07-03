@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Paper | Simon Fontaine</title>
+    <link>http://localhost:1313/publication-type/working-paper/</link>
+      <atom:link href="http://localhost:1313/publication-type/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hua1071a7d3a60d4d05b6bace64f5b5014_6570_512x512_fill_lanczos_center_3.png</url>
+      <title>Working Paper</title>
+      <link>http://localhost:1313/publication-type/working-paper/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Latent Factor Regression for EEG-Based Brain-Computer Interfaces</title>
+      <link>http://localhost:1313/publication/fontaine-dynamic-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fontaine-dynamic-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
