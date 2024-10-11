@@ -216,10 +216,16 @@
     <loc>https://fontaine618.github.com/software/amtm/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fontaine618.github.com/software/bffm-bci/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fontaine618.github.com/tag/c-/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fontaine618.github.com/tag/fortran/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fontaine618.github.com/software/lsvcmm/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fontaine618.github.com/software/mstweedie/</loc>
