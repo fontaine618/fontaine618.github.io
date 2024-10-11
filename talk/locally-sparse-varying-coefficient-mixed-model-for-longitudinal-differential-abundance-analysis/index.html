@@ -277,7 +277,7 @@
 
   
 
-<meta name="description" content="Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To perform DA on longitudinal microbial studies, we propose a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel-local polynomial smoothing approach for parameter estimation and extend local regression to include a random effect. Further, we obtain point-wise confidence intervals using bootstrapping to determine intervals of significant differences. Synthetic data experiments demonstrate the necessity of modelling dependence for precise estimation and support recovery. The application to a longitudinal study of mice oral microbiome undergoing cancer development with and without a mutation of interest reveals novel scientific insights." />
+<meta name="description" content="Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To study DA on longitudinal microbial studies, we introduce a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel smoothing approach for parameter estimation and extend local regression to include a random effect, without any requirements on the sampling design. In particular, it operates effectively regardless of whether sampling times are shared across subjects, accommodating irregular sampling or potentially missing observations. Simulation studies demonstrate the necessity of modelling dependence for precise estimation and support recovery. Our method&#39;s application to a longitudinal study of mice oral microbiome during cancer development revealed significant scientific insights that were otherwise not discernible through cross-sectional analyses. An R implementation is available at https://github.com/fontaine618/LSVCMM." />
 
 
 
@@ -323,16 +323,16 @@
 <meta property="og:site_name" content="Simon Fontaine" />
 <meta property="og:url" content="https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/" />
 <meta property="og:title" content="Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis | Simon Fontaine" />
-<meta property="og:description" content="Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To perform DA on longitudinal microbial studies, we propose a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel-local polynomial smoothing approach for parameter estimation and extend local regression to include a random effect. Further, we obtain point-wise confidence intervals using bootstrapping to determine intervals of significant differences. Synthetic data experiments demonstrate the necessity of modelling dependence for precise estimation and support recovery. The application to a longitudinal study of mice oral microbiome undergoing cancer development with and without a mutation of interest reveals novel scientific insights." /><meta property="og:image" content="https://fontaine618.github.com/media/icon_hu5114310367209175097.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To study DA on longitudinal microbial studies, we introduce a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel smoothing approach for parameter estimation and extend local regression to include a random effect, without any requirements on the sampling design. In particular, it operates effectively regardless of whether sampling times are shared across subjects, accommodating irregular sampling or potentially missing observations. Simulation studies demonstrate the necessity of modelling dependence for precise estimation and support recovery. Our method&#39;s application to a longitudinal study of mice oral microbiome during cancer development revealed significant scientific insights that were otherwise not discernible through cross-sectional analyses. An R implementation is available at https://github.com/fontaine618/LSVCMM." /><meta property="og:image" content="https://fontaine618.github.com/media/icon_hu5114310367209175097.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-08-08T10:00:00-04:00"
+      content="2024-03-18T10:00:00-04:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-08-08T10:00:00-04:00">
+    <meta property="article:modified_time" content="2024-07-18T10:00:00-04:00">
   
 
 
@@ -359,11 +359,11 @@
   
   "location": {
     "@type": "Place",
-    "name": "Toronto, ON, Canada"
+    "name": "Beijing, China"
   },
   
   
-  "startDate": "2023-08-08T10:00:00-04:00",
+  "startDate": "2024-07-18T10:00:00-04:00",
   
   
   "performer": {
@@ -371,7 +371,7 @@
     "name": "Simon Fontaine"
   },
   
-  "description": "Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To perform DA on longitudinal microbial studies, we propose a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel-local polynomial smoothing approach for parameter estimation and extend local regression to include a random effect. Further, we obtain point-wise confidence intervals using bootstrapping to determine intervals of significant differences. Synthetic data experiments demonstrate the necessity of modelling dependence for precise estimation and support recovery. The application to a longitudinal study of mice oral microbiome undergoing cancer development with and without a mutation of interest reveals novel scientific insights."
+  "description": "Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To study DA on longitudinal microbial studies, we introduce a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel smoothing approach for parameter estimation and extend local regression to include a random effect, without any requirements on the sampling design. In particular, it operates effectively regardless of whether sampling times are shared across subjects, accommodating irregular sampling or potentially missing observations. Simulation studies demonstrate the necessity of modelling dependence for precise estimation and support recovery. Our method's application to a longitudinal study of mice oral microbiome during cancer development revealed significant scientific insights that were otherwise not discernible through cross-sectional analyses. An R implementation is available at https://github.com/fontaine618/LSVCMM."
 }
 </script>
 
@@ -411,7 +411,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="67e0855b51cbe526207b28b07f286211" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="058619e42dd26ef25c9d03b8d38eda4b" >
 
   
   
@@ -742,47 +742,6 @@
 
 
 
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/lsvcmm-jsm-poster.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-</div>
-
 
   
 </div>
@@ -793,7 +752,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To perform DA on longitudinal microbial studies, we propose a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel-local polynomial smoothing approach for parameter estimation and extend local regression to include a random effect. Further, we obtain point-wise confidence intervals using bootstrapping to determine intervals of significant differences. Synthetic data experiments demonstrate the necessity of modelling dependence for precise estimation and support recovery. The application to a longitudinal study of mice oral microbiome undergoing cancer development with and without a mutation of interest reveals novel scientific insights.</p>
+      <p class="pub-abstract">Differential abundance (DA) analysis in microbiome studies has recently been used to uncover a plethora of associations between microbial composition and various health conditions. While current approaches to DA typically apply only to cross-sectional data, many studies feature a longitudinal design to better understand the underlying microbial dynamics. To study DA on longitudinal microbial studies, we introduce a novel varying coefficient mixed-effects model with local sparsity. The proposed method can identify time intervals of significant group differences while accounting for temporal dependence. Specifically, we exploit a penalized kernel smoothing approach for parameter estimation and extend local regression to include a random effect, without any requirements on the sampling design. In particular, it operates effectively regardless of whether sampling times are shared across subjects, accommodating irregular sampling or potentially missing observations. Simulation studies demonstrate the necessity of modelling dependence for precise estimation and support recovery. Our method&rsquo;s application to a longitudinal study of mice oral microbiome during cancer development revealed significant scientific insights that were otherwise not discernible through cross-sectional analyses. An R implementation is available at <a href="https://github.com/fontaine618/LSVCMM" target="_blank" rel="noopener">https://github.com/fontaine618/LSVCMM</a>.</p>
     
 
     <div class="row">
@@ -802,7 +761,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Aug 8, 2023 10:00 AM
+            Jul 18, 2024 10:00 AM
           </div>
         </div>
       </div>
@@ -817,8 +776,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="https://ww2.amstat.org/meetings/jsm/2023/index.cfm" target="_blank" rel="noopener">
-            JSM 2023
+            <a href="https://www.cmstatistics.org/EcoSta2024/index.php" target="_blank" rel="noopener">
+            EcoSta 2024
             </a>
           </div>
         </div>
@@ -834,7 +793,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Toronto, ON, Canada</div>
+          <div class="col-12 col-md-9">Beijing, China</div>
           
         </div>
       </div>
