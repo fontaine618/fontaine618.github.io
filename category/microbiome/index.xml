@@ -5,26 +5,34 @@
     <link>https://fontaine618.github.com/category/microbiome/</link>
       <atom:link href="https://fontaine618.github.com/category/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 10:00:00 -0400</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 10:00:00 -0400</lastBuildDate>
     <image>
-      <url>https://fontaine618.github.com/media/icon_hu5114310367209175097.png</url>
+      <url>https://fontaine618.github.com/media/icon_hu_24acf92a7d60f6d5.png</url>
       <title>Microbiome</title>
       <link>https://fontaine618.github.com/category/microbiome/</link>
     </image>
     
     <item>
-      <title>Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</title>
-      <link>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</link>
-      <pubDate>Thu, 18 Jul 2024 10:00:00 -0400</pubDate>
-      <guid>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</guid>
+      <title>Bayesian Fréchet Regression</title>
+      <link>https://fontaine618.github.com/talk/bayesian-frechet-regression/</link>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/bayesian-frechet-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADAPT: Analysis of Microbiome Differential Abundance by Pooling Tobit Models</title>
       <link>https://fontaine618.github.com/publication/wang-adapt-2024/</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://fontaine618.github.com/publication/wang-adapt-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally sparse varying coefficient mixed model for longitudinal differential abundance analysis</title>
+      <link>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</link>
+      <pubDate>Thu, 18 Jul 2024 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</guid>
       <description></description>
     </item>
     

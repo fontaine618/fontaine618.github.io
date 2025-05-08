@@ -5,26 +5,42 @@
     <link>https://fontaine618.github.com/category/misc/</link>
       <atom:link href="https://fontaine618.github.com/category/misc/index.xml" rel="self" type="application/rss+xml" />
     <description>Misc</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 10:00:00 -0400</lastBuildDate>
     <image>
-      <url>https://fontaine618.github.com/media/icon_hu5114310367209175097.png</url>
+      <url>https://fontaine618.github.com/media/icon_hu_24acf92a7d60f6d5.png</url>
       <title>Misc</title>
       <link>https://fontaine618.github.com/category/misc/</link>
     </image>
     
     <item>
-      <title>Statistical Models for Dependent Data</title>
-      <link>https://fontaine618.github.com/publication/fontaine-statistical-2024/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.com/publication/fontaine-statistical-2024/</guid>
+      <title>Bayesian Fréchet Regression</title>
+      <link>https://fontaine618.github.com/talk/bayesian-frechet-regression/</link>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 -0400</pubDate>
+      <guid>https://fontaine618.github.com/talk/bayesian-frechet-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Fréchet Regression</title>
+      <link>https://fontaine618.github.com/publication/fontaine-bayesian-2025/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-bayesian-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Missing Value Imputation in Relational Data using Variational Inference</title>
       <link>https://fontaine618.github.com/publication/fontaine-missing-2024/</link>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://fontaine618.github.com/publication/fontaine-missing-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Models for Dependent Data</title>
+      <link>https://fontaine618.github.com/publication/fontaine-statistical-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-statistical-2024/</guid>
       <description></description>
     </item>
     
