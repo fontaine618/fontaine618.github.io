@@ -5,12 +5,33 @@
     <link>https://fontaine618.github.com/category/microbiome/</link>
       <atom:link href="https://fontaine618.github.com/category/microbiome/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiome</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 10:00:00 -0400</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fontaine618.github.com/media/icon_hu_24acf92a7d60f6d5.png</url>
       <title>Microbiome</title>
       <link>https://fontaine618.github.com/category/microbiome/</link>
     </image>
+    
+    <item>
+      <title>Locally sparse varying coefficient mixed model with application to longitudinal microbiome differential abundance</title>
+      <link>https://fontaine618.github.com/publication/fontaine-locally-2024/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-locally-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loss of salivary agglutinin induces changes in the salivary microbiome and accelerates development of oral cancer</title>
+      <link>https://fontaine618.github.com/publication/meideros-loss-2025/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/meideros-loss-2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;: Salivary agglutinin, also known as deleted in malignant brain tumors 1 (DMBT1), is an anti-microbial protein. Salivary DMBT1 is low in saliva from patients with oral cancer and dramatically increases after treatment with accompanying microbial changes. While suppression of DMBT1 has been associated with oral microbial dysbiosis and oral cancer, direct effect has not been established.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goal&lt;/strong&gt;: To investigate the role of salivary agglutinin/DMBT1 in dysbiosis and oral cancer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;: Microbiota were standardized between Dmbt1 knockout (Dmbt1 -/- ) and wild type (Dmbt1 +/+ ) mice by inter-breeding and co-housing. Oral cancer development was investigated using a carcinogen model. Saliva was collected at baseline, 4, 8, 12, 16, and 22 weeks after initiation of carcinogen, which was stopped at 16 weeks. Tongues were harvested for histopathology. The salivary microbiome was profiled via 16S rRNA gene sequencing. Longitudinal microbiota changes were determined using a locally sparse varying coefficient mixed model. The θ YC distance was calculated using nonmetric multidimensional scaling ordination.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;: Carcinogen-treated Dmbt1 -/- had a higher prevalence of oral cancer with more aggressive invasion than Dmbt1 +/+ littermates. There were baseline microbiota differences between Dmbt1 +/+ and Dmbt1 -/- . Prevalence of Streptococcus in Dmbt1 +/+ and Brazyrhizobium in Dmbt1 -/- were increased in mice with precancerous lesions and cancer. Sphingonomas genus was predictive of transformation to cancer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;: Loss of DMBT1 induces dysbiosis and accelerates oral cancer development.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bayesian Fréchet Regression</title>
@@ -33,14 +54,6 @@
       <link>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</link>
       <pubDate>Thu, 18 Jul 2024 10:00:00 -0400</pubDate>
       <guid>https://fontaine618.github.com/talk/locally-sparse-varying-coefficient-mixed-model-for-longitudinal-differential-abundance-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Locally sparse varying coefficient mixed model with application to longitudinal microbiome differential abundance</title>
-      <link>https://fontaine618.github.com/publication/fontaine-locally-2024/</link>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://fontaine618.github.com/publication/fontaine-locally-2024/</guid>
       <description></description>
     </item>
     

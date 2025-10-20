@@ -5,12 +5,20 @@
     <link>https://fontaine618.github.com/publication-type/article-journal/</link>
       <atom:link href="https://fontaine618.github.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fontaine618.github.com/media/icon_hu_24acf92a7d60f6d5.png</url>
       <title>Article-Journal</title>
       <link>https://fontaine618.github.com/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Missing Value Imputation in Relational Data using Variational Inference</title>
+      <link>https://fontaine618.github.com/publication/fontaine-missing-2024/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://fontaine618.github.com/publication/fontaine-missing-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ADAPT: Analysis of Microbiome Differential Abundance by Pooling Tobit Models</title>
