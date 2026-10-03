@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Fontaine</title>
+    <link>http://localhost:1313/authors/simon/</link>
+      <atom:link href="http://localhost:1313/authors/simon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Fontaine</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_d96f775b96a4eeaf.png</url>
+      <title>Simon Fontaine</title>
+      <link>http://localhost:1313/authors/simon/</link>
+    </image>
+    
+    <item>
+      <title>aMTM</title>
+      <link>http://localhost:1313/software/amtm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/amtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFFM-BCI</title>
+      <link>http://localhost:1313/software/bffm-bci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/bffm-bci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFR</title>
+      <link>http://localhost:1313/software/bfr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/bfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSVCMM</title>
+      <link>http://localhost:1313/software/lsvcmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/lsvcmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSTweedie</title>
+      <link>http://localhost:1313/software/mstweedie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/mstweedie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAIVI</title>
+      <link>http://localhost:1313/software/naivi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/software/naivi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
